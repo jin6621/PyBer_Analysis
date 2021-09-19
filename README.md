@@ -11,7 +11,7 @@
   - Below is brief summary of information based on different city types. It is obvious that in urban area, there are significantly large amount of total rides (1,625) and total drivers (2,405), and the average fare cost per ride (\$24.53) is the lowest comparing to other city type. Furthermore, urban area has the lowest average fare pay per driver ($16.57).
 ![df_summary.png](analysis/df_summary.png)
 
- - Below is a multi-line chart that shows the overall total fare for each of the city type. Urban's line is at the top, which showcases that in the urban area it has the highest total fare over the course of January to April in 2019.  
+  - Below is a multi-line chart that shows the overall total fare for each of the city type. Urban's line is at the top, which showcases that in the urban area it has the highest total fare over the course of January to April in 2019.  
 
 ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
