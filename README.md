@@ -2,7 +2,7 @@
 #### This analysis will provide brief summary and data visualization to PyBer company regarding total weekly fares for each city type. With knowledge of Pandas and Matplotlib in Python, a summary dataframe of ride-sharing data by city type is generated, and output into a simple graph for visulization that showcases total weekly fares for individual city type. 
 ---
 
-####Overview of analysis:
+#### Overview of analysis:
 - Explain the purpose of the new analysis.
   - This analysis will provide basic insight on total fares by each city type. There are three types of city in our city data - Rural, Suburban, and Urban. There are also a ride data where it includes time, fare, city, and ride_id. Analysis was able to merge two datasets, and provide summary regarding total rides, total drives, total fares, average fare per ride, and average fare per driver based on different city type. Finally, a line chart is created to provide visualization on the total fare differences between each city types. 
   
